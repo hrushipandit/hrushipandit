@@ -6,7 +6,7 @@ Hi there, I'm Hrushikesh Milind Pandit 👋</h1>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/hrushikesh-pandit/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white"></a>
-  <a href="https://github.com/hrushikesh-pandit"><img src="https://img.shields.io/github/followers/hrushikesh-pandit?label=Followers&style=social"></a>
+  <a href="https://github.com/hrushikesh-pandit"><img src="https://img.shields.io/github/followers/hrushipandit?label=Followers&style=social"></a>
 </p>
 
 ---
@@ -63,8 +63,8 @@ Hi there, I'm Hrushikesh Milind Pandit 👋</h1>
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=hrushikesh-pandit&show_icons=true&theme=radical" />
-  <img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=hrushikesh-pandit&theme=radical" />
+  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=hrushipandit&show_icons=true&theme=radical" />
+  <img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=hrushipandit&theme=radical" />
 </p>
 
 ---
