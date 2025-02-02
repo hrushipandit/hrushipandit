@@ -4,11 +4,6 @@
 🚀 Software Engineer | AI & Cloud Enthusiast | Open Source Contributor
 </p>
 
-<p align="center">
-  <a href="[https://www.linkedin.com/in/hrushikesh-pandit](https://www.linkedin.com/in/hrushikesh-milind-pandit-05565a1a7/)/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white"></a>
-  <a href="https://github.com/hrushipandit"><img src="https://img.shields.io/github/followers/hrushipandit?label=Followers&style=social"></a>
-</p>
-
 ---
 
 ### 🚀 About Me
@@ -78,5 +73,4 @@
 ---
 
 ⭐ If you like my work, consider giving a **star** to my repositories!  
-🔥 Let's build something amazing together! 🚀
-)**
+🔥 Let's build something amazing together! 🚀**
