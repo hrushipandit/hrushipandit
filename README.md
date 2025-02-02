@@ -13,7 +13,7 @@ Hi there, I'm Hrushikesh Milind Pandit 👋</h1>
 
 ### 🚀 About Me
 - 🔭 Currently pursuing **M.S. in Computer Science** at **Arizona State University** (GPA: 3.93/4).
-- 💡 Passionate about **AI, Cloud Computing, Full Stack Development, and Graph-based RAG**.
+- 💡 Passionate about **AI, Cloud Computing, Full Stack Development**.
 - 👨‍💻 Software Development Engineer at **ASU Next Lab** | Ex-TCS (Royal Bank of Canada).
 - 🌱 Exploring **LLMs, Cloud Automation, and AI-powered Development**.
 - 📫 How to reach me? [Email me](mailto:hrushikeshpandit98@gmail.com) or connect on **[LinkedIn](https://www.linkedin.com/in/hrushikesh-pandit/)**.
@@ -80,58 +80,3 @@ Hi there, I'm Hrushikesh Milind Pandit 👋</h1>
 ⭐ If you like my work, consider giving a **star** to my repositories!  
 🔥 Let's build something amazing together! 🚀
 )**
-
-#### 3️⃣ **Auto-Scaling Face Recognition System**
-- 🎯 Developed a **serverless, event-driven Face Recognition System** on AWS.
-- ⚡ Used **AWS EC2 Auto-Scaling, SQS, S3, IAM, and AWS Lambda** for high scalability.
-- 🏎️ Handled **1,000+ concurrent requests** with efficient load distribution.
-- 🔗 **[Project Repository](https://github.com/hrushikesh-pandit/FaceRecogAutoScaling)**
-
----
-
-### 📊 GitHub Stats
-<p align="center">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=hrushikesh-pandit&show_icons=true&theme=radical" />
-  <img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=hrushikesh-pandit&theme=radical" />
-</p>
-
----
-
-### 📢 Let's Connect!
-💬 **Open to discussions, collaborations, and new opportunities**! Reach out via:
-- 📧 **[Email](mailto:hrushikeshpandit98@gmail.com)**
-- 🔗 **[LinkedIn](https://www.linkedin.com/in/hrushikesh-pandit/)**
-- 🏗 **[Portfolio (Coming Soon)](https://hrushipandit.github.io/portfolio/)**
-
----
-
-⭐ If you like my work, consider giving a **star** to my repositories!  
-🔥 Let's build something amazing together! 🚀
-)**
-
-#### 3️⃣ **Auto-Scaling Face Recognition System**
-- 🎯 Developed a **serverless, event-driven Face Recognition System** on AWS.
-- ⚡ Used **AWS EC2 Auto-Scaling, SQS, S3, IAM, and AWS Lambda** for high scalability.
-- 🏎️ Handled **1,000+ concurrent requests** with efficient load distribution.
-- 🔗 **[Project Repository](https://github.com/hrushikesh-pandit/FaceRecogAutoScaling)**
-
----
-
-### 📊 GitHub Stats
-<p align="center">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=hrushikesh-pandit&show_icons=true&theme=radical" />
-  <img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=hrushikesh-pandit&theme=radical" />
-</p>
-
----
-
-### 📢 Let's Connect!
-💬 **Open to discussions, collaborations, and new opportunities**! Reach out via:
-- 📧 **[Email](mailto:hrushikeshpandit98@gmail.com)**
-- 🔗 **[LinkedIn](https://www.linkedin.com/in/hrushikesh-pandit/)**
-- 🏗 **[Portfolio (Coming Soon)](https://hrushipandit.github.io/portfolio/)**
-
----
-
-⭐ If you like my work, consider giving a **star** to my repositories!  
-🔥 Let's build something amazing together! 🚀
