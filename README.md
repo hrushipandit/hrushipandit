@@ -45,7 +45,7 @@ Hi there, I'm Hrushikesh Milind Pandit 👋</h1>
 - 🧠 Built a **Graph-based Retrieval-Augmented Generation (GraphRAG)** system leveraging **LangChain** & **Neo4j**.
 - 🔐 Implemented **JWT-based RBAC** with **Spring Security** to enforce authorization policies.
 - 🌐 Tech Stack: **Spring Boot, Neo4j, AWS DynamoDB, SOLID principles**.
-- 🔗 **[Project Repository](https://github.com/hrushikesh-pandit/GraphSprint)**
+- 🔗 **[Project Repository](https://github.com/hrushipandit/GraphSprint)**
 
 #### 2️⃣ **Leetbud**
 - 🤖 Full-stack application that enables **automated note-taking for coding challenges**.
@@ -72,8 +72,8 @@ Hi there, I'm Hrushikesh Milind Pandit 👋</h1>
 ### 📢 Let's Connect!
 💬 **Open to discussions, collaborations, and new opportunities**! Reach out via:
 - 📧 **[Email](mailto:hrushikeshpandit98@gmail.com)**
-- 🔗 **[LinkedIn](https://www.linkedin.com/in/hrushikesh-pandit/)**
-- 🏗 **[Portfolio (Coming Soon)](https://hrushipandit.github.io/portfolio/)**
+- 🔗 **[LinkedIn](https://www.linkedin.com/in/hrushikesh-milind-pandit-05565a1a7/)**
+- 🏗 **[Portfolio](https://hrushipandit.github.io/portfolio/)**
 
 ---
 
