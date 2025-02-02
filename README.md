@@ -1,4 +1,3 @@
-
 <p align="center">
   <h1>Hi there, I'm Hrushikesh Milind Pandit 👋</h1>
 🚀 Software Engineer | AI & Cloud Enthusiast | Open Source Contributor
@@ -25,7 +24,11 @@
 
 #### Frameworks & Libraries:
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-4A90E2?style=flat&logo=langchain&logoColor=white)
 
 #### Cloud & DevOps:
