@@ -1,12 +1,11 @@
 <h1>Hi there, I'm Hrushikesh Milind Pandit 👋</h1>
 <p align="center">
-
 🚀 Software Engineer | AI & Cloud Enthusiast | Open Source Contributor
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/hrushikesh-pandit/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white"></a>
-  <a href="https://github.com/hrushikesh-pandit"><img src="https://img.shields.io/github/followers/hrushipandit?label=Followers&style=social"></a>
+  <a href="[https://www.linkedin.com/in/hrushikesh-pandit](https://www.linkedin.com/in/hrushikesh-milind-pandit-05565a1a7/)/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white"></a>
+  <a href="https://github.com/hrushipandit"><img src="https://img.shields.io/github/followers/hrushipandit?label=Followers&style=social"></a>
 </p>
 
 ---
@@ -16,7 +15,7 @@
 - 💡 Passionate about **AI, Cloud Computing, Full Stack Development**.
 - 👨‍💻 Software Development Engineer at **ASU Next Lab** | Ex-TCS (Royal Bank of Canada).
 - 🌱 Exploring **LLMs, Cloud Automation, and AI-powered Development**.
-- 📫 How to reach me? [Email me](mailto:hrushikeshpandit98@gmail.com) or connect on **[LinkedIn](https://www.linkedin.com/in/hrushikesh-pandit/)**.
+- 📫 How to reach me? [Email me](mailto:hrushikeshpandit98@gmail.com) or connect on **[LinkedIn](https://www.linkedin.com/in/hrushikesh-milind-pandit-05565a1a7/)**.
 
 ---
 
