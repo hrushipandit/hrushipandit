@@ -1,6 +1,6 @@
 <p align="center">
   <h1>Hi there, I'm Hrushikesh Milind Pandit 👋</h1>
-🚀 Software Engineer | AI & Cloud Enthusiast | Open Source Contributor
+🚀 Software Engineer | AI & Cloud Enthusiast 
 </p>
 
 ---
